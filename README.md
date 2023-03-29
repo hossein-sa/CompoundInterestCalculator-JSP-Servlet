@@ -10,12 +10,7 @@ Enter the annual interest rate in the "Annual Interest Rate" field.
 Enter the number of years in the "Number of Years" field.
 Click the "Calculate" button to calculate the compound interest.
 The result will be displayed on a new page, along with a button to calculate again.
-Screenshots
 
-
-Screenshot 1
-
-Screenshot 2
 
 License
 This project is licensed under the MIT License. Feel free to use and modify the code as you wish.
