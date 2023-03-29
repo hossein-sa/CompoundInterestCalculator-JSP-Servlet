@@ -1,5 +1,4 @@
 # CompoundInterestCalculator-JSP-Servlet
-Compound Interest Calculator
 This is a simple web application that calculates compound interest based on the user's input of principal, annual interest rate, and number of years. The application was built using JSP, Servlet, and Tomcat, and styled with Bootstrap 5.
 
 Getting Started
